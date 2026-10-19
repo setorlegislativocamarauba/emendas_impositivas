@@ -1,0 +1,6 @@
+{
+  "name": "Emendas Impositivas de Ubá - Portal de Transparência",
+  "description": "Portal oficial de acompanhamento, fiscalização e relatórios das emendas parlamentares impositivas da Câmara Municipal de Ubá - MG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

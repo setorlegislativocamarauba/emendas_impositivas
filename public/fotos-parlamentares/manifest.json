@@ -1,0 +1,234 @@
+[
+  {
+    "id": 19,
+    "nome_parlamentar": "Alexandre de Barros Mendes",
+    "nome_completo": "Alexandre de Barros Mendes",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/alexandre-de-barros-mendes.jpg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/19/alexandre.jpg"
+  },
+  {
+    "id": 90,
+    "nome_parlamentar": "Aline Moreira Silva Melo",
+    "nome_completo": "Aline Moreira Silva Melo",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/aline-moreira-silva-melo.jpg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/90/ver_aline_5P83vQc.jpg"
+  },
+  {
+    "id": 114,
+    "nome_parlamentar": "André Eustáquio Alves",
+    "nome_completo": "André Eustáquio Alves",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/andre-eustaquio-alves.jpg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/114/andre_alves.jpg"
+  },
+  {
+    "id": 20,
+    "nome_parlamentar": "Antero Gomes de Aguiar",
+    "nome_completo": "Antero Gomes de Aguiar",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/antero-gomes-de-aguiar.jpeg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/20/20_foto_parlamentar.jpeg"
+  },
+  {
+    "id": 115,
+    "nome_parlamentar": "Antonio Domingos Ximendes Trindade",
+    "nome_completo": "Antonio Domingos Ximendes Trindade",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/antonio-domingos-ximendes-trindade.jpg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/115/antonio_domingos.jpg"
+  },
+  {
+    "id": 92,
+    "nome_parlamentar": "Aparecida Sônia Ferreira Vidal",
+    "nome_completo": "Aparecida Sônia Ferreira Vidal",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/aparecida-sonia-ferreira-vidal.jpg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/92/aparecida_sonia.jpg"
+  },
+  {
+    "id": 113,
+    "nome_parlamentar": "Breno Reis de Oliveira",
+    "nome_completo": "Breno Reis de Oliveira",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/breno-reis-de-oliveira.jpg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/113/breno_reis.jpg"
+  },
+  {
+    "id": 12,
+    "nome_parlamentar": "Carlos da Silva Rufato",
+    "nome_completo": "Carlos da Silva Rufato",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/carlos-da-silva-rufato.jpeg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/12/12_foto_parlamentar.jpeg"
+  },
+  {
+    "id": 95,
+    "nome_parlamentar": "Celinho Lopes",
+    "nome_completo": "Célio Lopes dos Santos",
+    "ativo": false,
+    "localFile": "/fotos-parlamentares/celinho-lopes.jpg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/95/dsc_0379.jpg"
+  },
+  {
+    "id": 9,
+    "nome_parlamentar": "Célio Botaro",
+    "nome_completo": "Célio Botaro",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/celio-botaro.jpeg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/9/9_foto_parlamentar.jpeg"
+  },
+  {
+    "id": 8,
+    "nome_parlamentar": "Darci Pires da Silva",
+    "nome_completo": "Darci Pires da Silva",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/darci-pires-da-silva.jpeg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/8/8_foto_parlamentar.jpeg"
+  },
+  {
+    "id": 18,
+    "nome_parlamentar": "Edeir Pacheco",
+    "nome_completo": "Edeir Pacheco da Costa",
+    "ativo": false,
+    "localFile": "/fotos-parlamentares/edeir-pacheco.jpg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/18/edeir_pacheco.jpg"
+  },
+  {
+    "id": 22,
+    "nome_parlamentar": "Gilson Fazolla Filgueiras",
+    "nome_completo": "Gilson Fazolla Filgueiras",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/gilson-fazolla-filgueiras.jpg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/22/gilson_fazolla.jpg"
+  },
+  {
+    "id": 17,
+    "nome_parlamentar": "Jane Cristina Lacerda Pinto",
+    "nome_completo": "Jane Cristina Lacerda Pinto",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/jane-cristina-lacerda-pinto.jpg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/17/jane_crisitna.jpg"
+  },
+  {
+    "id": 6,
+    "nome_parlamentar": "Jorge Custódio Gervásio",
+    "nome_completo": "Jorge Custódio Gervásio",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/jorge-custodio-gervasio.jpeg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/6/6_foto_parlamentar.jpeg"
+  },
+  {
+    "id": 11,
+    "nome_parlamentar": "José Alves Germano",
+    "nome_completo": "José Alves Germano",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/jose-alves-germano.jpeg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/11/11_foto_parlamentar.jpeg"
+  },
+  {
+    "id": 94,
+    "nome_parlamentar": "José Carlos do Sindicato",
+    "nome_completo": "José Carlos Reis Pereira",
+    "ativo": false,
+    "localFile": "/fotos-parlamentares/jose-carlos-do-sindicato.jpeg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/94/jose_carlos.jpeg"
+  },
+  {
+    "id": 15,
+    "nome_parlamentar": "Joseli Anísio Pinto",
+    "nome_completo": "Joseli Anísio Pinto",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/joseli-anisio-pinto.jpeg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/15/15_foto_parlamentar.jpeg"
+  },
+  {
+    "id": 93,
+    "nome_parlamentar": "José Maria Fernandes",
+    "nome_completo": "José Maria Fernandes",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/jose-maria-fernandes.jpg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/93/ver_jose_maria.jpg"
+  },
+  {
+    "id": 21,
+    "nome_parlamentar": "José Roberto Reis Filgueiras",
+    "nome_completo": "José Roberto Reis Filgueiras",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/jose-roberto-reis-filgueiras.jpg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/21/jose_roberto.jpg"
+  },
+  {
+    "id": 110,
+    "nome_parlamentar": "Lucas Rufino Zocoli",
+    "nome_completo": "Lucas Rufino Zocoli",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/lucas-rufino-zocoli.jpg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/110/ver_lucas.jpg"
+  },
+  {
+    "id": 16,
+    "nome_parlamentar": "Luis Carlos Teixeira Ribeiro",
+    "nome_completo": "Luis Carlos Teixeira Ribeiro",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/luis-carlos-teixeira-ribeiro.jpeg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/16/16_foto_parlamentar.jpeg"
+  },
+  {
+    "id": 117,
+    "nome_parlamentar": "Marilda Aparecida Leoncio",
+    "nome_completo": "Marilda Aparecida Leoncio",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/marilda-aparecida-leoncio.jpeg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/117/marilda.jpeg"
+  },
+  {
+    "id": 5,
+    "nome_parlamentar": "Mauricio Valadão Reimão de Melo",
+    "nome_completo": "Mauricio Valadão Reimão de Melo",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/mauricio-valadao-reimao-de-melo.jpeg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/5/5_foto_parlamentar.jpeg"
+  },
+  {
+    "id": 7,
+    "nome_parlamentar": "Oswaldo Peixoto Guimarães",
+    "nome_completo": "Oswaldo Peixoto Guimarães",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/oswaldo-peixoto-guimaraes.jpeg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/7/7_foto_parlamentar.jpeg"
+  },
+  {
+    "id": 109,
+    "nome_parlamentar": "Paulo Cézar Tavares",
+    "nome_completo": "Paulo Cézar Tavares",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/paulo-cezar-tavares.jpg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/109/ver_paulo.jpg"
+  },
+  {
+    "id": 91,
+    "nome_parlamentar": "Professor José Damato",
+    "nome_completo": "José Damato Neto",
+    "ativo": false,
+    "localFile": "/fotos-parlamentares/professor-jose-damato.jpeg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/91/jose_damato.jpeg"
+  },
+  {
+    "id": 2,
+    "nome_parlamentar": "Rafael Paulo de Freitas",
+    "nome_completo": "Rafael Paulo de Freitas",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/rafael-paulo-de-freitas.jpeg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/2/2_foto_parlamentar.jpeg"
+  },
+  {
+    "id": 111,
+    "nome_parlamentar": "Renato Vieira",
+    "nome_completo": "Renato Vieira",
+    "ativo": true,
+    "localFile": "/fotos-parlamentares/renato-vieira.jpg",
+    "saplUrl": "https://sapl.uba.mg.leg.br/media/sapl/public/parlamentar/111/renato_vieira.jpg"
+  }
+]

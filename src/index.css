@@ -1,0 +1,111 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-primary: #0040d0;
+    --color-primary-dark: #0f3cbd;
+    --color-primary-light: #f4f6fc;
+    --font-primary: 'Figtree', sans-serif;
+  }
+
+  body {
+    font-family: var(--font-primary);
+  }
+}
+
+/* High contrast mode for accessibility */
+body.high-contrast {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+}
+
+body.high-contrast * {
+  background-color: transparent !important;
+  color: #ffffff !important;
+  border-color: #ffff00 !important;
+}
+
+body.high-contrast button,
+body.high-contrast a,
+body.high-contrast select,
+body.high-contrast input {
+  background-color: #111111 !important;
+  color: #ffff00 !important;
+  border: 1px solid #ffff00 !important;
+}
+
+body.high-contrast .bg-blue-700,
+body.high-contrast .bg-blue-600,
+body.high-contrast .bg-slate-900,
+body.high-contrast .bg-emerald-600,
+body.high-contrast .bg-amber-500 {
+  background-color: #111111 !important;
+  color: #ffff00 !important;
+}
+
+/* Print Styles for Official Legislative Reports */
+@media print {
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+    font-size: 11pt;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+
+  .print-only {
+    display: block !important;
+  }
+
+  /* When printing individual vereador modal report */
+  body.printing-modal-vereador header,
+  body.printing-modal-vereador main,
+  body.printing-modal-vereador footer,
+  body.printing-modal-vereador .modal-vereador-card {
+    display: none !important;
+  }
+
+  body.printing-modal-vereador .modal-backdrop-wrapper {
+    position: static !important;
+    inset: auto !important;
+    background: transparent !important;
+    backdrop-filter: none !important;
+    overflow: visible !important;
+    padding: 0 !important;
+    display: block !important;
+  }
+
+  body.printing-modal-vereador .print-modal-vereador-view {
+    display: block !important;
+    position: static !important;
+    width: 100% !important;
+  }
+
+  /* When printing general dashboard report */
+  body:not(.printing-modal-vereador) .print-modal-vereador-view {
+    display: none !important;
+  }
+
+  .print-page-break {
+    page-break-before: always;
+  }
+
+  table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+  }
+
+  th, td {
+    border: 1px solid #666 !important;
+    padding: 4px 6px !important;
+  }
+}
+
+@media screen {
+  .print-only {
+    display: none !important;
+  }
+}
+
